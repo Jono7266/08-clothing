@@ -337,13 +337,13 @@ form a {
 
 /* Add a grey background color on mouse-over */
 .topnav a:hover {
-  background-color: #04AA6D;
+  background-color: #FFF;
   color: black;
 }
 
 /* Style the active link (or home/logo) */
 .active {
-  background-color: #FFF;
+  background-color: #ddd;
   color: white;
 }
 
