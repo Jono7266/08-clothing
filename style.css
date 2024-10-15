@@ -319,7 +319,7 @@ form a {
 
 /* Style navigation menu links */
 .topnav a {
-  color: white;
+  color: #ddd;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
@@ -328,7 +328,7 @@ form a {
 
 /* Style the hamburger menu */
 .topnav a.icon {
-  background: #ddd;
+  background: #FFF;
   display: block;
   position: absolute;
   right: 0;
