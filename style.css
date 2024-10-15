@@ -337,7 +337,7 @@ form a {
 
 /* Add a grey background color on mouse-over */
 .topnav a:hover {
-  background-color: #FFF;
+  background-color: #04AA6D;
   color: black;
 }
 
