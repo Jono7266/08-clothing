@@ -328,7 +328,7 @@ form a {
 
 /* Style the hamburger menu */
 .topnav a.icon {
-  background: white;
+  background: #ddd;
   display: block;
   position: absolute;
   right: 0;
@@ -337,13 +337,13 @@ form a {
 
 /* Add a grey background color on mouse-over */
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #FFF;
   color: black;
 }
 
 /* Style the active link (or home/logo) */
 .active {
-  background-color: #04AA6D;
+  background-color: #FFF;
   color: white;
 }
 
